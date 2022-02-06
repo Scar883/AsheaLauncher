@@ -187,8 +187,7 @@ Please give credit to the original author and provide a link to the original sou
 
 The best way to contact the developers is on Discord.
 
-https://discord.gg/ATTNpxf85b
-
+[![discord](https://discord.gg/ATTNpxf85b/embed.png?style=banner3)][discord]
 ---
 
 ### See you ingame.
